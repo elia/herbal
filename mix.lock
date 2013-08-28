@@ -1,5 +1,5 @@
 [ "cauldron": {:git, "git://github.com/meh/cauldron.git", "7312b7159d830f706ca163e90703475c7a670d00", []},
-  "datastructures": {:git, "git://github.com/meh/elixir-datastructures.git", "3201b1dc36c08e1a98c14370c007f41170bd58ef", []},
+  "datastructures": {:git, "git://github.com/meh/elixir-datastructures.git", "70f2d81c6b37d861a6914a60790ba7b5140d7744", []},
   "finalizer": {:git, "git://github.com/meh/elixir-finalizer.git", "9c38d9145824a46c66f1a010e137a953a6c78e04", []},
   "jazz": {:git, "git://github.com/meh/jazz.git", "c5b0586d46d0f21244c3b5dbc6aa217089ac01f5", []},
   "resource": {:git, "git://github.com/tonyrog/resource.git", "37264ec960263cec0df8d6db0da818297b8d5771", []},
