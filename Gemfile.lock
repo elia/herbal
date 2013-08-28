@@ -1,0 +1,18 @@
+PATH
+  remote: ~/Code/opal
+  specs:
+    opal (0.4.4)
+      source_map
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.0)
+    source_map (3.0.1)
+      json
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  opal!
