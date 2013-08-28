@@ -10,7 +10,10 @@ defmodule Herbal.Mixfile do
 
   # Configuration for the OTP application
   def application do
-    [ applications: [:cauldron] ]
+    # [ registered: [Herbal],
+    [ registered: [:herbal],
+      # applications: [:cauldron],
+      mod: { Herbal, [] } ]
   end
 
   # Returns the list of dependencies in the format:
@@ -21,3 +24,4 @@ defmodule Herbal.Mixfile do
     ]
   end
 end
+
