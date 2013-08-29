@@ -12,7 +12,7 @@ defmodule Herbal.Mixfile do
   def application do
     # [ registered: [Herbal],
     [ registered: [:herbal],
-      # applications: [:cauldron],
+      applications: [:urna],
       mod: { Herbal, [] } ]
   end
 
